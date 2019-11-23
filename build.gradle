@@ -53,7 +53,7 @@ repositories {
 
     maven {
 
-        url System.getenv('NEXUS_BASE') ?: "$nexusBase"
+        url System.getenv('NEXUS_BASE') ?: 'https://nexus.matthewdavis.io/repository/spring.black/nexus/content/repositories/releases'
 
     }
 
@@ -75,7 +75,7 @@ nexus {
 
     sign = false
 
-    repositoryUrl = System.getenv('NEXUS_BASE') ?: "$nexusBase"
+    repositoryUrl = System.getenv('NEXUS_BASE') ?: 'https://nexus.matthewdavis.io/repository/spring.black/nexus/content/repositories/releases'
 
 }
 

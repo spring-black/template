@@ -451,14 +451,8 @@
       <change afterPath="$PROJECT_DIR$/../identity/src/main/java/springblack/identity/users/UsersController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../identity/src/main/java/springblack/identity/users/UsersRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../identity/src/main/java/springblack/identity/users/UsersService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tags" afterDir="false" />
       <change afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../streamnvr/.idea/streamnvr.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../streamnvr/python/.idea/python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../streamnvr/streamnvr-platform-api/.idea/streamnvr-platform-api.iml" afterDir="false" />
@@ -4772,7 +4766,9 @@
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vmwareworld/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vmwareworld/.idea/modules.xml" beforeDir="false" />
@@ -4996,8 +4992,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1U0ku8eYhGfwWnQsRqjuQ9eXdBn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
@@ -5008,6 +5007,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -5062,5 +5068,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
