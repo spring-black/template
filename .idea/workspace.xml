@@ -4766,9 +4766,6 @@
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsRepository.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/java/com/example/demo/ParentsService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../spring-test-jpa-serializing/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vmwareworld/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vmwareworld/.idea/modules.xml" beforeDir="false" />
